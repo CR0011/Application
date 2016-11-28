@@ -1,0 +1,1 @@
+this is sample file to push into remote git server like use command git push.before git add . that use git commit -m " adding changes to new file"
